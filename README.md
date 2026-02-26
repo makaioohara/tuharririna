@@ -1,8 +1,8 @@
 <p align="center">
-  <h1 align="center">Pritilata AI 🎗️</h1>
+  <h1 align="center">Tuharririna 🎗️</h1>
 </p>
 
-<p align="center"><strong>Pritilata AI</strong> is an early-stage artificial intelligence project focused on the detection and analysis of breast cancer using machine learning techniques.</p>
+<p align="center"><strong>Tuharririna</strong> is an early-stage artificial intelligence project focused on the detection and analysis of breast cancer using machine learning techniques.</p>
 <p align="center">The repository currently serves as a <strong>foundation for future development and research</strong>.</br>Functionality, models, and datasets will be added incrementally as the project progresses.</p>
 
   ---
@@ -19,14 +19,14 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/makaioohara/Pritilata/stargazers">
-    <img src="https://img.shields.io/github/stars/makaioohara/Pritilata" alt="Stars" />
+  <a href="https://github.com/makaioohara/Tuharririna/stargazers">
+    <img src="https://img.shields.io/github/stars/makaioohara/Tuharririna" alt="Stars" />
   </a>
-  <a href="https://github.com/makaioohara/Pritilata/network/members">
-    <img src="https://img.shields.io/github/forks/makaioohara/Pritilata" alt="Forks" />
+  <a href="https://github.com/makaioohara/Tuharririna/network/members">
+    <img src="https://img.shields.io/github/forks/makaioohara/Tuharririna" alt="Forks" />
   </a>
-  <a href="https://github.com/makaioohara/Pritilata/issues">
-    <img src="https://img.shields.io/github/issues/makaioohara/Pritilata" alt="Issues" />
+  <a href="https://github.com/makaioohara/Tuharririna/issues">
+    <img src="https://img.shields.io/github/issues/makaioohara/Tuharririna" alt="Issues" />
   </a>
 </p>
 
@@ -34,12 +34,12 @@
 
 ## Contributing
 
-**Contributions are welcome and encouraged.** We want to make sure you have a great experience contributing to Pritilata and that the new features you build will make it into core. </br>
+**Contributions are welcome and encouraged.** We want to make sure you have a great experience contributing to Tuharririna and that the new features you build will make it into core. </br>
 If you want to start contributing, follow the steps below to set up an environment:
 ```bash
 # Contributing
-git clone https://github.com/makaioohara/Pritilata
-cd Pritilata
+git clone https://github.com/makaioohara/Tuharririna
+cd Tuharririna
 pip install -r requirements.txt
 ```
 ---
