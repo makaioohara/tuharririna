@@ -1,5 +1,6 @@
 # Project Specific
-data/train/ddsm/images
+data/trainer
+lesson/random
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
