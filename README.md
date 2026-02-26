@@ -1,8 +1,8 @@
 <p align="center">
-  <h1 align="center">Pritilata AI 🎗️</h1>
+  <h1 align="center">Tuharririna 🎗️</h1>
 </p>
 
-<p align="center"><strong>Pritilata AI</strong> is an early-stage artificial intelligence project focused on the detection and analysis of breast cancer using machine learning techniques.</p>
+<p align="center"><strong>Tuharririna</strong> is an early-stage artificial intelligence project focused on the detection and analysis of breast cancer using machine learning techniques.</p>
 <p align="center">The repository currently serves as a <strong>foundation for future development and research</strong>.</br>Functionality, models, and datasets will be added incrementally as the project progresses.</p>
 
   ---
@@ -38,8 +38,8 @@
 If you want to start contributing, follow the steps below to set up an environment:
 ```bash
 # Contributing
-git clone https://github.com/makaioohara/Pritilata
-cd Pritilata
+git clone https://github.com/makaioohara/Tuharririna
+cd Tuharririna
 pip install -r requirements.txt
 ```
 ---
