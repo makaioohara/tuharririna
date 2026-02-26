@@ -19,14 +19,14 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/makaioohara/Pritilata/stargazers">
-    <img src="https://img.shields.io/github/stars/makaioohara/Pritilata" alt="Stars" />
+  <a href="https://github.com/makaioohara/Tuharririna/stargazers">
+    <img src="https://img.shields.io/github/stars/makaioohara/Tuharririna" alt="Stars" />
   </a>
-  <a href="https://github.com/makaioohara/Pritilata/network/members">
-    <img src="https://img.shields.io/github/forks/makaioohara/Pritilata" alt="Forks" />
+  <a href="https://github.com/makaioohara/Tuharririna/network/members">
+    <img src="https://img.shields.io/github/forks/makaioohara/Tuharririna" alt="Forks" />
   </a>
-  <a href="https://github.com/makaioohara/Pritilata/issues">
-    <img src="https://img.shields.io/github/issues/makaioohara/Pritilata" alt="Issues" />
+  <a href="https://github.com/makaioohara/Tuharririna/issues">
+    <img src="https://img.shields.io/github/issues/makaioohara/Tuharririna" alt="Issues" />
   </a>
 </p>
 
@@ -34,7 +34,7 @@
 
 ## Contributing
 
-**Contributions are welcome and encouraged.** We want to make sure you have a great experience contributing to Pritilata and that the new features you build will make it into core. </br>
+**Contributions are welcome and encouraged.** We want to make sure you have a great experience contributing to Tuharririna and that the new features you build will make it into core. </br>
 If you want to start contributing, follow the steps below to set up an environment:
 ```bash
 # Contributing
